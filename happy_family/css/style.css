@@ -1,0 +1,9 @@
+#new-message
+{
+    position: fixed;
+    bottom: 100px;
+    border-radius: 100% ;
+    width: 50px ;
+    font-size: larger;
+    height: 50px ;
+}
