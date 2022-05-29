@@ -1,0 +1,31 @@
+body
+{
+    background-color: lightgrey;
+}
+#new-user
+{
+    padding: 0 !important;
+    font-size:25px !important;
+    position: fixed;
+    bottom: 100px;
+    right: 8%;
+    color: aliceblue;
+    width: 40px;
+}
+#new-user:hover
+{
+    background-color: yellow;
+    color: black;
+}
+#delete
+{
+    position: fixed;
+    bottom: 100px;
+    right: 8%;
+    font-size:17px !important;
+}
+#delete:hover
+{
+    background-color: red;
+    color:blanchedalmond;
+}
